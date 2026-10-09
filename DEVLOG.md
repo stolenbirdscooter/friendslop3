@@ -41,3 +41,7 @@ polaroids. Visual pass: woven basket, billowy per-pixel cloud sea, confetti.
 Navigation readability: beacons over islands awaiting post, a physical wind
 vane matching the HUD arrows, propeller nerfed so altitude stays the steering
 wheel. Export presets so every snapshot builds with one command.
+
+## v06 — Showroom
+Identity + charm pass: see your courier and hat in the menu, waterfalls off
+the islands, flags that wave, an envelope that breathes, softer clouds.
