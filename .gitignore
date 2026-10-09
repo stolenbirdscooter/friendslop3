@@ -1,0 +1,4 @@
+.godot/
+*.import.tmp
+/build/
+export_presets.cfg.bak
