@@ -25,6 +25,7 @@ sound. The only imported assets are two SIL OFL fonts (Grandstander, Nunito).
 ## Running
 
 ```
+godot --headless --path game --import  # first time only: import fonts
 godot --path game                      # menu
 godot --path game -- --solo            # straight into a solo flight
 godot --path game -- --host            # host on UDP 24680
