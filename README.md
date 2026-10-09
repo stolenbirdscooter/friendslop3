@@ -52,9 +52,11 @@ godot --headless --path game --export-release Linux
 | v04 Postcards & Polish | auto-captured polaroid moments, confetti, wicker weave, smooth cloud sea |
 | v05 Tailwind | destination beacons, wind vane, propeller rebalance, export presets |
 | v06 Showroom | menu courier preview, waterfalls, waving flags, breathing envelope, softer cloud sea |
+| v07 Crew Comfort | full gamepad support, pause-menu settings (sensitivity, FOV, volumes, invert-Y) |
 
 ## Controls
 
+Gamepad fully supported (sticks, A jump, X use, Y squeak, RT throw). Keyboard:
 WASD walk · Space jump · hold Space while falling to puff up and glide ·
 mouse look · E pick up / put down / use · hold LMB to throw (LMB empty-handed
 shoves) · Q squeak · Esc menu.

@@ -45,3 +45,7 @@ wheel. Export presets so every snapshot builds with one command.
 ## v06 — Showroom
 Identity + charm pass: see your courier and hat in the menu, waterfalls off
 the islands, flags that wave, an envelope that breathes, softer clouds.
+
+## v07 — Crew Comfort
+Gamepad support end to end and a settings menu. Friendslop sessions include
+the friend on a controller and the friend who needs inverted Y.
