@@ -14,3 +14,12 @@ not a climbing game, not a ragdoll brawler:
 4. **Expressiveness without voice chat.** Pitch-controlled rubber squeak, shoves.
 5. **Storybook-handmade look.** Toon bands with cool ambient shadows, ink
    outlines, patchwork envelope shader, postage-stamp UI.
+
+## v02 — Mayhem
+Research note (from what makes friendslop clips spread): the stories people
+retell are about *a friend causing a disaster* and *a heroic save*. v02 adds
+both: you can throw (or drop) your friends, gulls snatch the post mid-air,
+pops turn people into pancakes that must be carried to the pump. Squeaking —
+previously pure expression — now has a use (scaring gulls), so the silly verb
+becomes a tactical one. Parcel flavors create memorable individual objects
+("the hen", "the fragile one") that become running jokes within a session.
