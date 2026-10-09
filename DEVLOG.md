@@ -23,3 +23,10 @@ pops turn people into pancakes that must be carried to the pump. Squeaking —
 previously pure expression — now has a use (scaring gulls), so the silly verb
 becomes a tactical one. Parcel flavors create memorable individual objects
 ("the hen", "the fragile one") that become running jokes within a session.
+
+## v03 — Dockside
+Friend groups trickle in; a timer that starts on host-click punishes that. The
+dock phase + departure bell gives a shared "everyone ready?" ritual. Hats
+are the cheapest high-value friendslop feature: identity in screenshots and
+a reason to keep playing. Verified multiplayer carry/throw with two real
+processes and removed join-time RPC errors.
