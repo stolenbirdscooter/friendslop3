@@ -30,3 +30,9 @@ dock phase + departure bell gives a shared "everyone ready?" ritual. Hats
 are the cheapest high-value friendslop feature: identity in screenshots and
 a reason to keep playing. Verified multiplayer carry/throw with two real
 processes and removed join-time RPC errors.
+
+## v04 — Postcards & Polish
+Friendslop lives on retold moments (cf. Content Warning's whole premise of
+filming disasters). Windbags makes this ambient instead of a job: your camera
+snaps the funniest moments automatically, and the day ends on a strip of
+polaroids. Visual pass: woven basket, billowy per-pixel cloud sea, confetti.
