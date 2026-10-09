@@ -51,6 +51,7 @@ godot --headless --path game --export-release Linux
 | v03 Dockside | dock phase + departure bell, unlockable hats, ready-peer networking |
 | v04 Postcards & Polish | auto-captured polaroid moments, confetti, wicker weave, smooth cloud sea |
 | v05 Tailwind | destination beacons, wind vane, propeller rebalance, export presets |
+| v06 Showroom | menu courier preview, waterfalls, waving flags, breathing envelope, softer cloud sea |
 
 ## Controls
 
