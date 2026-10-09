@@ -36,3 +36,8 @@ Friendslop lives on retold moments (cf. Content Warning's whole premise of
 filming disasters). Windbags makes this ambient instead of a job: your camera
 snaps the funniest moments automatically, and the day ends on a strip of
 polaroids. Visual pass: woven basket, billowy per-pixel cloud sea, confetti.
+
+## v05 — Tailwind
+Navigation readability: beacons over islands awaiting post, a physical wind
+vane matching the HUD arrows, propeller nerfed so altitude stays the steering
+wheel. Export presets so every snapshot builds with one command.

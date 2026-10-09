@@ -31,6 +31,26 @@ godot --path game -- --host            # host on UDP 24680
 godot --path game -- --join=1.2.3.4    # join a host
 ```
 
+## Building
+
+`game/export_presets.cfg` has Linux, Windows and macOS presets (the same file
+ships in every `versions/` snapshot). Install the Godot 4.7.2 export
+templates, then for example:
+
+```
+godot --headless --path game --export-release Linux
+```
+
+## Versions
+
+| Version | Adds |
+| --- | --- |
+| v01 First Flight | balloon airmail core: wind layers, basket tilt, puff glide, chutes, day quota, ENet |
+| v02 Mayhem | gulls, bramble clouds, leaks + patching, popping/pancakes, throwing crewmates, parcel flavors, generative music |
+| v03 Dockside | dock phase + departure bell, unlockable hats, ready-peer networking |
+| v04 Postcards & Polish | auto-captured polaroid moments, confetti, wicker weave, smooth cloud sea |
+| v05 Tailwind | destination beacons, wind vane, propeller rebalance, export presets |
+
 ## Controls
 
 WASD walk · Space jump · hold Space while falling to puff up and glide ·
